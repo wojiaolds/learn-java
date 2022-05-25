@@ -13,7 +13,7 @@
     <artifactId>command</artifactId>
 
     <properties>
-        <spring.version>5.0.7.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
         <slf4j.version>1.7.25</slf4j.version>
         <lettuce.version>5.0.4.RELEASE</lettuce.version>
         <spring-data.version>2.0.8.RELEASE</spring-data.version>
