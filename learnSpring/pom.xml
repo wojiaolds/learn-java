@@ -13,7 +13,7 @@
     <artifactId>learnSpring</artifactId>
 
     <properties>
-        <spring.version>LATEST</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
     </properties>
 
     <dependencies>
